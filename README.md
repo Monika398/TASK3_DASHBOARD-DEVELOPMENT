@@ -106,5 +106,7 @@ The Superstore Sales Dashboard successfully demonstrates the power of data visua
 *OUTPUT_VISUALIZATION*:
 
 
+<img width="1253" height="816" alt="Image" src="https://github.com/user-attachments/assets/b4599938-7e78-4fcb-acbc-7dea826c9cd2" />
+
 
 
